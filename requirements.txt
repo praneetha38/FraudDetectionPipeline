@@ -1,0 +1,33 @@
+# Core
+pandas==2.0.3
+numpy==1.24.3
+python-dotenv==1.0.0
+
+# Kafka
+kafka-python==2.0.2
+
+# Spark (install separately via Docker)
+pyspark==3.5.0
+
+# ML & Data Processing
+scikit-learn==1.3.0
+scipy==1.11.1
+
+# Streamlit
+streamlit==1.26.0
+plotly==5.16.1
+
+# Data Validation
+great-expectations==0.17.0
+
+# dbt (install via pip or homebrew)
+dbt-core==1.5.0
+dbt-postgres==1.5.0
+
+# Monitoring
+prometheus-client==0.17.1
+
+# Utilities
+pyyaml==6.0
+requests==2.31.0
+kaggle==1.5.13
